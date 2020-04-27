@@ -16,3 +16,10 @@
 >>研究知乎上问题的关注数、浏览数、回答数之间是否存在线性关联<br>
 >>研究回答数较高的问题，提取其中的关键词，形成词云<br>
 >>用FastText模型和TextRNN模型对问题进行文本分类
+
+
+
+
+
+## 参考
+https://github.com/649453932/Chinese-Text-Classification-Pytorch
