@@ -1,7 +1,7 @@
 
 # 介绍
 ## 关注数、浏览数、回答数之间的线性关系
->工具：matplotlib、sklearn
+>工具：matplotlib、sklearn<br>
 >利用爬取到的数据，使用matplotlib来绘制三者的平面分布图，并使用sklearn来对三者之间的关系进行线性关系的预测<br>
 
 ## 关键词的词云
