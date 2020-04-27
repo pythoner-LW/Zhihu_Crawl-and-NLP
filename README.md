@@ -25,5 +25,5 @@
 https://github.com/649453932/Chinese-Text-Classification-Pytorch
 
 ## 联系
-353630400@qq.com
+353630400@qq.com<br>
 wangliang7757@gmail.com
