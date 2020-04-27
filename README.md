@@ -23,3 +23,6 @@
 
 ## 参考
 https://github.com/649453932/Chinese-Text-Classification-Pytorch
+
+## 联系
+qq:353630400@qq.com
