@@ -1,0 +1,10 @@
+lifestyle
+finance
+sports
+technology
+art
+culture
+nature
+car
+game
+law
