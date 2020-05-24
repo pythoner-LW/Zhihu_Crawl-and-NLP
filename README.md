@@ -1,4 +1,4 @@
-# Zhihu-Crawl-and-NLP
+# 基于python的网站语料采集系统及自然语言处理
 ## introduce
 
 ### zhihu_question_redis
